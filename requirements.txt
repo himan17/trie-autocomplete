@@ -1,0 +1,9 @@
+# Core dependencies
+typing-extensions>=4.8.0
+
+# Optional caching
+redis>=5.0.0; python_version >= "3.8"
+
+# Development tools (optional)
+black>=24.4.0
+ruff>=0.5.0
